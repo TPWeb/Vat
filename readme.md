@@ -6,7 +6,10 @@
 [![Total Downloads](https://poser.pugx.org/tpweb/vat/d/total.svg)](https://packagist.org/packages/tpweb/vat)
 [![License](https://poser.pugx.org/tpweb/vat/license.svg)](https://packagist.org/packages/tpweb/vat)
 
-#Installation
+# Abandoned
+This package is abandoned and no longer maintained. Please use https://github.com/madeITBelgium/vat
+
+# Installation
 
 Require this package in your `composer.json` and update composer.
 
